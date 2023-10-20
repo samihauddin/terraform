@@ -2,7 +2,7 @@
 provider "aws" {
 
 
-# location of aws
+# location of awss
   region = "eu-west-1"
 }
 # to download required dependencies 
